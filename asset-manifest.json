@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/speech_to_tex_newt/static/css/main.6e391510.css",
+    "main.js": "/speech_to_tex_newt/static/js/main.6d514f31.js",
+    "index.html": "/speech_to_tex_newt/index.html",
+    "main.6e391510.css.map": "/speech_to_tex_newt/static/css/main.6e391510.css.map",
+    "main.6d514f31.js.map": "/speech_to_tex_newt/static/js/main.6d514f31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e391510.css",
+    "static/js/main.6d514f31.js"
+  ]
+}
